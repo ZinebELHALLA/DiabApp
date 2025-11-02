@@ -90,7 +90,7 @@ st.markdown(f"""
 # === CHARGEMENT MODÈLE ===
 @st.cache_resource
 def load_model():
-    return joblib.load('../diabetes_best_model.pkl')  # Chemin relatif
+    return joblib.load('diabetes_best_model.pkl')  # Chemin relatif
 
 model = load_model()
 

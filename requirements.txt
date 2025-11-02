@@ -1,4 +1,4 @@
-joblib @ file:///work/perseverance-python-buildout/croot/joblib_1728392999985/work
-pandas @ file:///croot/pandas_1732735089971/work/dist/pandas-2.2.3-cp313-cp313-linux_x86_64.whl#sha256=248baa16b8f7b48e3a9c0e641fba9a72bce9c95c0dddf7c9a7547016b61fe3fb
-scikit-learn @ file:///croot/scikit-learn_1737988764076/work
-streamlit @ file:///croot/streamlit-split_1748963583989/work/streamlit
+streamlit==1.38.0
+pandas==2.2.3
+joblib==1.4.2
+scikit-learn==1.5.2

@@ -1,0 +1,11 @@
+# Modèles ML (lourds)
+*.pkl
+
+# Cache Streamlit
+.streamlit/
+__pycache__/
+*.pyc
+
+# Fichiers temporaires
+.DS_Store
+Thumbs.db
